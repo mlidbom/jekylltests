@@ -1,3 +1,3 @@
 = About
-:permalink: /about/
+:page-permalink: /about/
 

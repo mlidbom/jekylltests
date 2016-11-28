@@ -26,6 +26,8 @@ livereload: true
 # Build settings
 stylesdir: css
 markdown: kramdown
+destination: ../docs
+keep_files: [apidocs]
 theme: minima
 asciidoc: {}
 asciidoctor:

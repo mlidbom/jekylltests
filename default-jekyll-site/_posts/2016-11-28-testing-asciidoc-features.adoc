@@ -1,5 +1,16 @@
-= Site published
+= Testing Asciidoc features
 :page-layout: post
 
 First extremely minimal version of the site has been published.
 Essentially it simply holds the links to the API documentation for now.
+
+TIP: Admonitions should work!
+
+
+[source,csharp]
+----
+public class SomeClass
+{
+    public void Test(){}
+}
+----
