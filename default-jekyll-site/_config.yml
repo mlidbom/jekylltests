@@ -29,6 +29,8 @@ markdown: kramdown
 destination: ../docs
 keep_files: [apidocs]
 theme: minima
+disqus:
+  shortname: composable
 asciidoc: {}
 asciidoctor:
   safe: unsafe
