@@ -1,5 +1,9 @@
 = Site published
-:page-layout: post
+Magnus Lidbom
+
 
 First extremely minimal version of the site has been published.
-Essentially it simply holds the links to the API documentation for now.
+Essentially it simply holds the links to the API
+link:{site-baseurl}/documentation[documentation]
+for now.
+
