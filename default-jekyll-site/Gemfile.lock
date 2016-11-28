@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    asciidoctor (1.5.5)
     colorator (1.1.0)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
@@ -22,6 +23,9 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-asciidoc (2.0.1)
+      asciidoctor (>= 1.5.0)
+      jekyll (>= 2.3.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
     jekyll-livereload (0.2.2)
@@ -54,6 +58,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.3.1)
+  jekyll-asciidoc
   jekyll-feed (~> 0.6)
   jekyll-livereload
   minima (~> 2.0)
