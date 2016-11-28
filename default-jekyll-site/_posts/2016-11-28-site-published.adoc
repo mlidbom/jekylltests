@@ -6,7 +6,7 @@ Essentially it simply holds the links to the API documentation for now.
 
 TIP: Admonitions should work!
 
-[source,java]
+[source,csharp]
 ----
 public class SomeClass
 {

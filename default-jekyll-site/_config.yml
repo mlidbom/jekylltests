@@ -32,8 +32,9 @@ asciidoctor:
   safe: unsafe
   attributes:
     - icons=font
+    - stylesdir=css
     - idseparator=_
-    - source-highlighter=coderay
+    - source-highlighter=pygments
 gems:
   - jekyll-feed
 exclude:
