@@ -4,4 +4,4 @@
 
 == API Documentation
 
-link:/apidocs/3.4[3.4]
+link:../apidocs/3.4[3.4]
