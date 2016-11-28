@@ -2,18 +2,14 @@
 :page-layout: post
 
 First extremely minimal version of the site has been published.
-Essentially it simple holds the links to the API documentation for now.
+Essentially it simply holds the links to the API documentation for now.
 
 TIP: Admonitions should work!
 
-[source,ruby]
-puts Hello World
-
-[source,ruby]
+[source,java]
 ----
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+public class SomeClass
+{
+    public void Test(){}
+}
 ----

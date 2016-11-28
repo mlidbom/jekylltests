@@ -11,6 +11,13 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", "3.3.1"
 
+#fix windows folder watching
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+#asciidoc syntax highlighting
+gem 'coderay'
+gem 'pygments.rb'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
